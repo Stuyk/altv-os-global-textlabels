@@ -1,4 +1,4 @@
-# Open Source - Global Text Labels
+# Open Source - Global Text Labels - alt:V
 
 Created by Stuyk (Trevor Wessel)
 
@@ -95,3 +95,12 @@ If you ever need to destroy the label you have created during the runtime you ca
 ```js
 alt.emit('textLabel:Destroy', 'label2');
 ```
+
+# Other alt:V Open Source Resources
+
+-   [Authentication by Stuyk](https://github.com/Stuyk/altv-os-auth)
+-   [Discord Authentication by Stuyk](https://github.com/Stuyk/altv-discord-auth)
+-   [Global Blip Manager by Dzeknjak](https://github.com/jovanivanovic/altv-os-global-blip-manager)
+-   [Global Marker Manager by Dzeknjak](https://github.com/jovanivanovic/altv-os-global-marker-manager)
+-   [Chat by Dzeknjak](https://github.com/jovanivanovic/altv-os-chat)
+-   [Entity Sync for JS by LeonMrBonnie](https://github.com/LeonMrBonnie/altv-os-js-entitysync)
