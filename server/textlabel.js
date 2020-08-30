@@ -87,6 +87,6 @@ function handleDestroy(identifier) {
         return;
     }
 
-    textLabels.splice(index, 1);
     textLabels[index].destroy();
+    textLabels.splice(index, 1);
 }
